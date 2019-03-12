@@ -1,2 +1,2 @@
-# Sample-Code-DJI-Mobile-SDK-New
+# Drone Projekt 2019 DAT17
 Sample app til Drone projektet.
